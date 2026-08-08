@@ -11,6 +11,11 @@
     width: 160px;
     height: 134px;
     margin: 32px auto 0;
+
+    background-image: url('../images/imac.jpeg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
   }
 
   &__name {
